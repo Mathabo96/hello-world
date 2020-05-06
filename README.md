@@ -2,7 +2,7 @@
 ## *Mathabo Ntshangase*
 
 
-![image](https://github.com/Thoriso95/Thori/blob/master/Thori%20Grad.png)
+![image](https://github.com/Mathabo96/hello-world/blob/master/Mathabo.jpg)
 
 
 ## About me
@@ -23,6 +23,10 @@
 *Date: May 2019 - November 2019  
 *Role: Research Intern for the City Intelligence division
 
+*Company: University of Witwatersrand 
+*Date: February 2017 - November 2017  
+*Role: Tutor
+
 
 
 ### Skills 
@@ -37,10 +41,9 @@
 
 ### Training outside formal education 
 >
-> - First Aid 2017
-> - Basic fire fighting 2017
-> - Health and safety 2017
-> - Pig production 2019
+> - SAFe (2020)
+> - 
+
 
 
 
