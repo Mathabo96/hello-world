@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Hi everyone! Welcome to my page.
+## *Mathabo Ntshangase*
 
-You can use the [editor on GitHub](https://github.com/Mathabo96/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://github.com/Thoriso95/Thori/blob/master/Thori%20Grad.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About me
+*I'm a GAP intern at Dimension Data. I'm keen to learn more about the ins and outs of this dynamic company as I am new to the tech industry, and I'm ready to develop some of the skills I've gained over the years in my career .* 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Work Experience 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+*Company: Dimension Data  
+*Date: February 2020 - Present 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+*Role: Graduate Accelerate Programme Intern 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+*Company: City of Ekurhuleni  
+*Date: May 2019 - November 2019  
+*Role: Research Intern for the City Intelligence division
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mathabo96/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Skills 
+>
+> - Data collection and analysis
+> - Facilities Management 
+> - Workplace Design
+> - People Skills 
+> - Problem Solving 
+> - Adaptability 
+
+
+### Training outside formal education 
+>
+> - First Aid 2017
+> - Basic fire fighting 2017
+> - Health and safety 2017
+> - Pig production 2019
+
+
+
+
+
+
+
+
+
+
+
+
