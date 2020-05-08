@@ -11,20 +11,18 @@
 
 ### Work Experience 
 
-*Company: Dimension Data  
-*Date: February 2020 - Present 
+> - Company: Dimension Data  
+> - Date: February 2020 - Present 
+> - Role: Graduate Accelerate Programme Intern 
 
 
-*Role: Graduate Accelerate Programme Intern 
+> - Company: City of Ekurhuleni  
+> - Date: May 2019 - November 2019  
+> - Role: Research Intern for the City Intelligence division
 
-
-*Company: City of Ekurhuleni  
-*Date: May 2019 - November 2019  
-*Role: Research Intern for the City Intelligence division
-
-*Company: University of Witwatersrand 
-*Date: February 2017 - November 2017  
-*Role: Tutor
+> - Company: University of Witwatersrand 
+> - Date: February 2017 - November 2017  
+> - Role: Tutor
 
 
 
@@ -45,9 +43,9 @@
 
 ### Projects completed this far
 
-> - RFQ for Tsogo Sun with Digital Advisory
-> - Digital Customer Experience for Standard Bank 
-> - Impact of Covid-19 on Dimension Data 
+> - RFQ for *Tsogo Sun* with Digital Advisory
+> - Digital Customer Experience for *Standard Bank* 
+> - Impact of Covid-19 on *Dimension Data* 
 
 
 
