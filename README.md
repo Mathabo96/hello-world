@@ -2,7 +2,7 @@
 ## ***Mathabo Ntshangase***
 
 
-![image](https://github.com/Mathabo96/hello-world/blob/master/Mathabo.jpg)
+![image](./Mathabo.jpg)
 
 
 ## About me
